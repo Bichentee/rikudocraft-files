@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "packVersion": "0.9.6",
+  "packVersion": "0.9.7",
   "minecraft": "1.21.1",
   "neoforge": "21.1.234",
   "java": "java-runtime-delta",
@@ -11,10 +11,10 @@
   },
   "mods": [
     {
-      "file": "rikudocraft-0.9.6.jar",
-      "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/mods/rikudocraft-0.9.6.jar",
-      "sha1": "c13fc2076d6acc42a6207a1c6f70dd7f5fddbbac",
-      "size": 36523021
+      "file": "rikudocraft-0.9.7.jar",
+      "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/mods/rikudocraft-0.9.7.jar",
+      "sha1": "e1ed452350f73493d3f4bad060b4640e6dbb9d68",
+      "size": 36631206
     },
     {
       "file": "balm-neoforge-1.21.1-21.0.56.jar",
@@ -136,10 +136,10 @@
     "discord": "https://discord.gg/m6NmJnSEsx"
   },
   "launcher": {
-    "version": "0.2.10",
-    "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/launcher/app-0.2.10.asar",
-    "sha1": "2392bed4826996104568df96ff3d6d15538eec3c",
-    "size": 17383943,
+    "version": "0.2.11",
+    "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/launcher/app-0.2.11.asar",
+    "sha1": "a20215a0f474fe1c3830349f7390348518ca3303",
+    "size": 17384245,
     "electron": "45"
   }
 }
