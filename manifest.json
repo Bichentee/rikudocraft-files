@@ -134,5 +134,12 @@
   ],
   "links": {
     "discord": "https://discord.gg/m6NmJnSEsx"
+  },
+  "launcher": {
+    "version": "0.2.6",
+    "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/launcher/app-0.2.6.asar",
+    "sha1": "e4a1bda20aa8cf2f39788b060d6f76ba99621b04",
+    "size": 17380089,
+    "electron": "45"
   }
 }
