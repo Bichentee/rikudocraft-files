@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "packVersion": "0.9.6",
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.208",
+  "java": "java-runtime-delta",
+  "server": {
+    "name": "RikudoCraft",
+    "host": "localhost",
+    "port": 25566
+  },
+  "mods": [
+    {
+      "file": "rikudocraft-0.9.6.jar",
+      "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/mods/rikudocraft-0.9.6.jar",
+      "sha1": "c13fc2076d6acc42a6207a1c6f70dd7f5fddbbac",
+      "size": 36523021
+    }
+  ],
+  "files": [],
+  "news": [
+    {
+      "date": "2026-11-21",
+      "title": {
+        "fr": "Bêta fermée : c'est parti !",
+        "en": "Closed beta: here we go!"
+      },
+      "body": {
+        "fr": "Merci d'être là. Signale chaque bug sur le Discord, salon #bugs.",
+        "en": "Thanks for being here. Report every bug on Discord, #bugs channel."
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "title": {
+        "fr": "Le launcher arrive",
+        "en": "The launcher is coming"
+      },
+      "body": {
+        "fr": "Un clic sur JOUER : le launcher installe tout et te connecte directement au serveur.",
+        "en": "One click on PLAY: the launcher installs everything and connects you straight to the server."
+      }
+    }
+  ],
+  "links": {
+    "discord": "https://discord.gg/m6NmJnSEsx"
+  }
+}
