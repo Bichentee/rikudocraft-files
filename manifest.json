@@ -136,10 +136,10 @@
     "discord": "https://discord.gg/m6NmJnSEsx"
   },
   "launcher": {
-    "version": "0.2.9",
-    "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/launcher/app-0.2.9.asar",
-    "sha1": "70a07e2d63ebb4da47ca0704e8bf362c15c9be0d",
-    "size": 17382889,
+    "version": "0.2.10",
+    "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/launcher/app-0.2.10.asar",
+    "sha1": "2392bed4826996104568df96ff3d6d15538eec3c",
+    "size": 17383943,
     "electron": "45"
   }
 }
