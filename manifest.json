@@ -15,6 +15,96 @@
       "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/mods/rikudocraft-0.9.6.jar",
       "sha1": "c13fc2076d6acc42a6207a1c6f70dd7f5fddbbac",
       "size": 36523021
+    },
+    {
+      "file": "balm-neoforge-1.21.1-21.0.56.jar",
+      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Yoii3Xj6/balm-neoforge-1.21.1-21.0.56.jar",
+      "sha1": "635e706136bb228e6a72d41d86dec495f812ccb5",
+      "size": 739709
+    },
+    {
+      "file": "cloth-config-15.0.140-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+      "size": 1163890
+    },
+    {
+      "file": "dummmmmmy-1.21-2.0.12-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/Adega8YN/versions/nnQq1ivl/dummmmmmy-1.21-2.0.12-neoforge.jar",
+      "sha1": "0e69c2a8e4e51df42e45b2d6deb3a855bdf8dce6",
+      "size": 219158
+    },
+    {
+      "file": "firstperson-neoforge-2.7.2-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/H5XMjpHi/versions/wcETD2Bu/firstperson-neoforge-2.7.2-mc1.21.1.jar",
+      "sha1": "8faf96d7c3c12eaec819b4e273e58c048e8de125",
+      "size": 1612095
+    },
+    {
+      "file": "geckolib-neoforge-1.21.1-4.8.4.jar",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/gFmrC8Ru/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "sha1": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce",
+      "size": 622582
+    },
+    {
+      "file": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+      "size": 2540723
+    },
+    {
+      "file": "jei-1.21.1-neoforge-19.25.0.320.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/WETkCdIl/jei-1.21.1-neoforge-19.25.0.320.jar",
+      "sha1": "743e46b161723f8cdc2f2b3860cb2815b35b1991",
+      "size": 1502851
+    },
+    {
+      "file": "moonlight-1.21-2.28.2-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/FW12WzQ3/moonlight-1.21-2.28.2-neoforge.jar",
+      "sha1": "100339839fce7009fa646562cd9ae0438c64cb1c",
+      "size": 1479333
+    },
+    {
+      "file": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+      "size": 73938
+    },
+    {
+      "file": "notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/eYNogep3/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+      "sha1": "b509863deaa27890f8db600f612966a07490a6cd",
+      "size": 1939625
+    },
+    {
+      "file": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+      "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c",
+      "size": 203149
+    },
+    {
+      "file": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+      "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+      "size": 1292934
+    },
+    {
+      "file": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "sha1": "a5ac35ccb902231047709530a5708fb71dc3e3b5",
+      "size": 202454
+    },
+    {
+      "file": "voicechat-neoforge-1.21.1-2.6.20.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/8xOu3Um5/voicechat-neoforge-1.21.1-2.6.20.jar",
+      "sha1": "e320dab1795ec1193a57ea709f23f49b662ef2a1",
+      "size": 4910868
+    },
+    {
+      "file": "waystones-neoforge-1.21.1-21.1.33.jar",
+      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/PXntW965/waystones-neoforge-1.21.1-21.1.33.jar",
+      "sha1": "488bc70db3730f209e65cbda04c36dbc3918c448",
+      "size": 878265
     }
   ],
   "files": [],
