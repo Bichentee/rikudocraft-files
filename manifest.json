@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "packVersion": "0.9.15",
+  "packVersion": "0.9.16",
   "minecraft": "1.21.1",
   "neoforge": "21.1.234",
   "java": "java-runtime-delta",
@@ -11,10 +11,10 @@
   },
   "mods": [
     {
-      "file": "rikudocraft-0.9.15.jar",
-      "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/mods/rikudocraft-0.9.15.jar",
-      "sha1": "bc862dc99d004f2232705748121eb3813a52a1f8",
-      "size": 36704563
+      "file": "rikudocraft-0.9.16.jar",
+      "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/mods/rikudocraft-0.9.16.jar",
+      "sha1": "5d75ff3537993ab300f7172a8d419d0eadf599ac",
+      "size": 36722175
     },
     {
       "file": "balm-neoforge-1.21.1-21.0.56.jar",
