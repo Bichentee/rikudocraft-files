@@ -143,7 +143,7 @@
     "electron": "45"
   },
   "earlyWindow": {
-    "enabled": true,
+    "enabled": false,
     "file": "rikudocraft-earlywindow-1.0.0.jar",
     "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/earlywindow/rikudocraft-earlywindow-1.0.0.jar",
     "sha1": "61378649f82762533251fe8c74591daeb0dad911",
