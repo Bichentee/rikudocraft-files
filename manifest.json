@@ -6,8 +6,8 @@
   "java": "java-runtime-delta",
   "server": {
     "name": "RikudoCraft",
-    "host": "localhost",
-    "port": 25566
+    "host": "83.143.117.29",
+    "port": 20661
   },
   "mods": [
     {
