@@ -136,10 +136,10 @@
     "discord": "https://discord.gg/m6NmJnSEsx"
   },
   "launcher": {
-    "version": "0.2.14",
-    "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/launcher/app-0.2.14.asar",
-    "sha1": "059d5644f717dd85bf65fc9184a03282750e0f10",
-    "size": 22283432,
+    "version": "0.2.15",
+    "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/launcher/app-0.2.15.asar",
+    "sha1": "050ef00912fb16a3ca2ca73518aa8b98a255deb0",
+    "size": 22291156,
     "electron": "45"
   },
   "earlyWindow": {
@@ -148,5 +148,19 @@
     "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/earlywindow/rikudocraft-earlywindow-1.0.0.jar",
     "sha1": "61378649f82762533251fe8c74591daeb0dad911",
     "size": 74332
-  }
+  },
+  "defaults": [
+    {
+      "path": "config/voicechat/voicechat-client.properties",
+      "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/defaults/4afcf7cf98-voicechat-client.properties",
+      "sha1": "4afcf7cf98323bc8c5f333ead0af4b5d2c437d8d",
+      "size": 4960
+    },
+    {
+      "path": "options.txt",
+      "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/defaults/1269270672-options.txt",
+      "sha1": "126927067205022d4b980ae60b5cdb3740622741",
+      "size": 5988
+    }
+  ]
 }
