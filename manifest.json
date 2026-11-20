@@ -17,12 +17,6 @@
       "size": 42684419
     },
     {
-      "file": "balm-neoforge-1.21.1-21.0.56.jar",
-      "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/Yoii3Xj6/balm-neoforge-1.21.1-21.0.56.jar",
-      "sha1": "635e706136bb228e6a72d41d86dec495f812ccb5",
-      "size": 739709
-    },
-    {
       "file": "cloth-config-15.0.140-neoforge.jar",
       "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
       "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
@@ -99,12 +93,6 @@
       "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/8xOu3Um5/voicechat-neoforge-1.21.1-2.6.20.jar",
       "sha1": "e320dab1795ec1193a57ea709f23f49b662ef2a1",
       "size": 4910868
-    },
-    {
-      "file": "waystones-neoforge-1.21.1-21.1.33.jar",
-      "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/PXntW965/waystones-neoforge-1.21.1-21.1.33.jar",
-      "sha1": "488bc70db3730f209e65cbda04c36dbc3918c448",
-      "size": 878265
     }
   ],
   "files": [],
