@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "packVersion": "0.9.46",
+  "packVersion": "0.9.47",
   "minecraft": "1.21.1",
   "neoforge": "21.1.234",
   "java": "java-runtime-delta",
@@ -11,10 +11,10 @@
   },
   "mods": [
     {
-      "file": "rikudocraft-0.9.46.jar",
-      "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/mods/rikudocraft-0.9.46.jar",
-      "sha1": "417d5252314bf9622dff4e6ec60208d6aaa254ca",
-      "size": 42864948
+      "file": "rikudocraft-0.9.47.jar",
+      "url": "https://raw.githubusercontent.com/Bichentee/rikudocraft-files/main/mods/rikudocraft-0.9.47.jar",
+      "sha1": "9eff66a0a8d3b483aa7a5ac0b9ec555f2cd70e78",
+      "size": 42918463
     },
     {
       "file": "cloth-config-15.0.140-neoforge.jar",
